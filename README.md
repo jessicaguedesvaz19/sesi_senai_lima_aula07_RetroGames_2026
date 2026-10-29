@@ -2,6 +2,7 @@
 
 Site de uma loja que vende jogos retro, nele podemos cadastrar novos jogos no catálogo. 
 
-## Print do Site: 
+## Prints do Site: 
 
 ![site](RetroGames_Site.png)
+![Cadastro](RetroGames_Cadastro.png)
